@@ -1,0 +1,28 @@
+# NLP Tool
+
+A simple web application that allows users to perform Natural Language Processing (NLP) on articles or blogs from various websites. This tool utilizes the Aylien API to extract and analyze text data.
+
+## Features
+
+- Analyze articles by entering their URL.
+- Retrieve insights using Aylien's NLP capabilities.
+
+## Technologies Used
+
+- **Node.js**: Server-side JavaScript runtime.
+- **Express**: Web application framework for routing.
+- **Webpack**: Module bundler for managing development and production environments.
+- **Service Worker**: For enhanced performance and offline capabilities.
+- **Aylien API**: External API for text analysis.
+
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/my-nlp-tool.git
+   cd my-nlp-tool
